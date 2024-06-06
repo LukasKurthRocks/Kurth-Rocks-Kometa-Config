@@ -1,2 +1,5 @@
 # Kurth Rocks Kometa Config
- Config, Setup, Assets
+
+Config, Setup, Assets
+
+Projekt: Kurth-Rocks-Kometa-Config
