@@ -1,0 +1,15 @@
+---
+version: "2.1"
+services:
+  kometa:
+    image: kometateam/kometa:nightly
+    container_name: kometa
+    hostname: kometa
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=US/Central
+      - KOMETA_TIMES=6:00,18:00
+    volumes:
+      - /kometa:/config
+    restart: unless-stopped
