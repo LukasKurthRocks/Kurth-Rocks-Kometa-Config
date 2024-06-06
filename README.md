@@ -7,3 +7,5 @@ Möchte hier meine Configs und mein Setup soweit reinschieben, wenn ich damit fe
 - Daten von seamonkey420
   - [ ] Abändern für meine Zwecke
   - [x] Testen
+- Daten von TheChrisK
+  - [ ] Abändern für meine Zwecke (Corner Files, Projektdatei??)
