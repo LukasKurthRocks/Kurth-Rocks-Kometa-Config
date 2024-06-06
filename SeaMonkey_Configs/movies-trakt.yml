@@ -1,0 +1,18 @@
+collections:
+  Trakt Trending:
+    sort_title: !03 +20
+    trakt_chart:
+      - chart: trending
+        limit: 100
+    collection_order: custom
+    sync_mode: sync
+    summary: Trakt Trending Movies.
+
+  Trakt Popular:
+    sort_title: !03 +21
+    trakt_chart:
+      - chart: trending
+        limit: 100
+    collection_order: custom
+    sync_mode: sync
+    summary: Trakt Popular Movies.
